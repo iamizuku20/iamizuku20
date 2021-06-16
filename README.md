@@ -1,25 +1,3 @@
-<!-- # modal-project
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/). -->
-
-
-
 <h1 align="center">Hi 👋, I'm Izuku Midoriya</h1>
 <h3 align="center">A passionate Front-End developer</h3>
 
