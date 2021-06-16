@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **VueJS, Tailwind CSS & Firebsae**
 
-- 👨‍💻 My 2021 Goals are **Confident enough to create Full-Stack web apps **
+- 👨‍💻 My 2021 Goals are **Confident enough to create Full-Stack web apps**
 
 - ⚡ Fun fact **I think I'm not Funny**
 
